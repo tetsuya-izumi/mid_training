@@ -1,0 +1,31 @@
+$cWhite: white;
+$cAquamarine: aquamarine;
+
+li {
+    list-style: none;
+}
+
+.header_wrapper {
+    width: 1022px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.space_between {
+    justify-content: space-between;
+}
+
+.center {
+    justify-content: center;
+}
+
+.reverse {
+    flex-direction: row-reverse;
+}
+
+.button {
+    
+}
